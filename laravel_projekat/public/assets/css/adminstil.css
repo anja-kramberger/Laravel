@@ -1,0 +1,9 @@
+.table th, .jsgrid .jsgrid-table th, .table td, .jsgrid .jsgrid-table td {
+    vertical-align: middle;
+    line-height: 1;
+    white-space: normal;
+}
+.desc {
+    max-width: 45ch;
+    word-wrap: break-word;
+}
